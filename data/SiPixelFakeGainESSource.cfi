@@ -1,5 +1,9 @@
+
+include "CondTools/SiPixel/data/SiPixelGainCalibrationService.cfi"
+
 es_source = SiPixelFakeGainESSource { 
 
 FileInPath file = "CalibTracker/SiPixelESProducers/data/PixelSkimmedGeometry.txt"
 
+using SiPixelGainCalibrationServiceParameters
 }
