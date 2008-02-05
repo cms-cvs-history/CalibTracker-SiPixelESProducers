@@ -1,0 +1,5 @@
+es_source = SiPixelFakeLorentzAngleESSource { 
+
+FileInPath file = "CalibTracker/SiPixelESProducers/data/PixelSkimmedGeometry.txt"
+
+}
