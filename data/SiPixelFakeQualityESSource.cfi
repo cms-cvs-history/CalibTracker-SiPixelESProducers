@@ -1,0 +1,5 @@
+es_source = SiPixelFakeQualityESSource { 
+
+FileInPath file = "CalibTracker/SiPixelESProducers/data/PixelSkimmedGeometry.txt"
+
+}
