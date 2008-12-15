@@ -1,5 +1,0 @@
-es_source = SiPixelFakeGainOfflineESSource { 
-
-FileInPath file = "CalibTracker/SiPixelESProducers/data/PixelSkimmedGeometry.txt"
-
-}

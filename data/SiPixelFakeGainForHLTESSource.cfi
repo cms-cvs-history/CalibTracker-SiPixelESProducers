@@ -1,5 +1,0 @@
-es_source = SiPixelFakeGainForHLTESSource { 
-
-FileInPath file = "CalibTracker/SiPixelESProducers/data/PixelSkimmedGeometry.txt"
-
-}
