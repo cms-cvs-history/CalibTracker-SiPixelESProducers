@@ -7,7 +7,7 @@
 <use name=Geometry/TrackerGeometryBuilder>
 <use name=CondFormats/SiPixelObjects>
 <use name=CondCore/DBOutputService>
-<use name=CondTools/SiPixel>
+<use name=CalibTracker/SiPixelESProducers>
 
 <library file="*.cc" name=testCalibTrackerSiPixelESProducers>
 <flags EDM_PLUGIN=1>
